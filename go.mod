@@ -56,13 +56,13 @@ require (
 	go.uber.org/zap v1.21.0
 	golang.org/x/crypto v0.0.0-20220622213112-05595931fe9d
 	golang.org/x/net v0.0.0-20220624214902-1bab6f366d9e
-	golang.org/x/sync v0.0.0-20220513210516-0976fa681c29
+	golang.org/x/sync v0.0.0-20220722155255-886fb9371eb4
 	golang.org/x/sys v0.0.0-20220520151302-bc2c85ada10a
 	k8s.io/api v0.24.1
 	k8s.io/apimachinery v0.24.1
 	k8s.io/client-go v0.24.1
 	knative.dev/client v0.32.0
-	knative.dev/serving v0.32.0
+	knative.dev/serving v0.34.1
 )
 
 require (
@@ -243,14 +243,14 @@ require (
 	gopkg.in/yaml.v2 v2.4.0 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 	gotest.tools/v3 v3.1.0 // indirect
-	k8s.io/apiextensions-apiserver v0.23.4 // indirect
+	k8s.io/apiextensions-apiserver v0.23.9 // indirect
 	k8s.io/cli-runtime v0.23.4 // indirect
-	k8s.io/klog/v2 v2.60.1 // indirect
+	k8s.io/klog/v2 v2.70.2-0.20220707122935-0990e81f1a8f // indirect
 	k8s.io/kube-openapi v0.0.0-20220328201542-3ee0da9b0b42 // indirect
 	k8s.io/utils v0.0.0-20220210201930-3a6ce19ff2f9 // indirect
 	knative.dev/eventing v0.32.0 // indirect
-	knative.dev/networking v0.0.0-20220524205304-22d1b933cf73 // indirect
-	knative.dev/pkg v0.0.0-20220524202603-19adf798efb8 // indirect
+	knative.dev/networking v0.0.0-20220818010248-e51df7cdf571 // indirect
+	knative.dev/pkg v0.0.0-20220818004048-4a03844c0b15 // indirect
 	sigs.k8s.io/json v0.0.0-20211208200746-9f7c6b3444d2 // indirect
 	sigs.k8s.io/kustomize/api v0.11.4 // indirect
 	sigs.k8s.io/kustomize/kyaml v0.13.6 // indirect
